@@ -5,7 +5,7 @@
     "description": "API documentation for the CSE341 Node.js Final Project -> Library Management System",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "cse341-library-management-system.onrender.com",
   "basePath": "/",
   "schemes": [
     "https",
