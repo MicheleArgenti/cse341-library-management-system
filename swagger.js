@@ -6,7 +6,7 @@ const doc = {
     description: 'API documentation for the CSE341 Node.js Final Project -> Library Management System',
   },
   host: 'localhost:3000',
-  schemes: ['https', 'http'],
+  schemes: ['http', 'https'],
 };
 
 const outputFile = './swagger.json';
